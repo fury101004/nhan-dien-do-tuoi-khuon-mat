@@ -35,7 +35,7 @@ realtime webcam**.
 -   Demo webcam MobileNetV2\
 -   Demo dự đoán ảnh
 
-*(Thêm ảnh GIF hoặc PNG tại đây nếu có.)*
+  ![demo](image.png)   
 
 ------------------------------------------------------------------------
 
